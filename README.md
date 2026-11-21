@@ -12,7 +12,7 @@ These projects were undertaken for education and research purposes ONLY. All act
 
 Testing was limited to the target domain only. No social engineering, no denial of service, and no testing outside agreed scope was attempted. Do not use anything from here to break the law. The instructor, the author and Networkwalks are not responsible for what you do with this knowledge. Every action you take is your own responsibility. Misuse can lead to criminal charges, heavy fines, loss of your job and a permanent record. In most countries unauthorized access is a crime, even when nothing is damaged.
 
-# Introduction
+## Introduction
 
 The NetworkWalks Cybersecurity program was a 6-week long practical curriculum mainly constituted by assessed projects. The reports are shared in this repository for exhibitional purposes.
 
