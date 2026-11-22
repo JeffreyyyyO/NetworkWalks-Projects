@@ -1,6 +1,6 @@
 <div align="center">
   <p><img src="./images/Network-Walks-Logo.png" alt="networkwalks logo" style="display: block; margin: 0 auto;"></p>
-  <h1>NETWORKWALKS</h1>
+  <h1>NetworkWalks</h1>
   <h3><i>Cybersecurity Ethical Hacking Projects</i></h3>
   <p>These projects were executed by</p>
   <h3><img width="15" height="15" alt="shield(2)" src="https://github.com/user-attachments/assets/de672627-9503-420d-9e2c-8ebf0353afa8"/> Jeffrey Obi</h3>
